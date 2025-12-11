@@ -1,6 +1,8 @@
 # test-git
 // this is first line commit
 
+// this is first line commit conflict
+
 // commit 1 from develop
 
 ======
